@@ -1,0 +1,6 @@
+C:\Programming\Studijos\KT\KTprograma\KTprograma\bin\Debug\KTprograma.exe.config
+C:\Programming\Studijos\KT\KTprograma\KTprograma\bin\Debug\KTprograma.exe
+C:\Programming\Studijos\KT\KTprograma\KTprograma\bin\Debug\KTprograma.pdb
+C:\Programming\Studijos\KT\KTprograma\KTprograma\obj\Debug\KTprograma.csprojResolveAssemblyReference.cache
+C:\Programming\Studijos\KT\KTprograma\KTprograma\obj\Debug\KTprograma.exe
+C:\Programming\Studijos\KT\KTprograma\KTprograma\obj\Debug\KTprograma.pdb
